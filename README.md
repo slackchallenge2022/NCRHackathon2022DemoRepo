@@ -7,3 +7,5 @@ sample commit
 simple
 
 sample message
+
+edit
