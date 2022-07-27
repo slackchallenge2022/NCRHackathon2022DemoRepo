@@ -5,3 +5,5 @@ ua
 
 sample commit
 simple
+
+sample message
